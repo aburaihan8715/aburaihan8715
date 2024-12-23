@@ -6,7 +6,9 @@ Hi, This is Abu Raihan a dedicated full stack developer with a passion for craft
 
 Skills: HTML/CSS/JS/TS/REACT/NODE/EXPRESS/MONGODB/POSTGRES
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my project 
+- 🌱 I’m currently learning aws and docker 
+- 👯 I’m looking to collaborate on developers 
 
 
 
