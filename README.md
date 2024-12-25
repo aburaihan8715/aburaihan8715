@@ -21,18 +21,22 @@ I am a dedicated full stack developer with a passion for crafting web applicatio
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/abu.raihan.563309) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/mdaburaihan3331/?originalSubdomain=bd)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=aburaihan8715&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aburaihan8715&theme=darcula&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan8715&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=aburaihan8715&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+# 📊 GitHub Stats:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=aburaihan8715&theme=darcula&hide_border=true&include_all_commits=false&count_private=false) -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aburaihan8715&show_icons=true)
+<br/>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=aburaihan8715)](https://git.io/streak-stats) -->
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aburaihan8715)  
+<br/>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan8715&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan8715)](https://github.com/anuraghazra/github-readme-stats)
