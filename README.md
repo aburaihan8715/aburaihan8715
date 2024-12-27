@@ -2,7 +2,7 @@
 
 #### I am a full-stack web developer
 
-![I am a full-stack web developer](https://i.ibb.co.com/QfVsbYt/Virtual-Assistant-Service-Promotion-Linked-In-Banner.jpg)
+![I am a full-stack web developer](https://media.licdn.com/dms/image/v2/D5616AQH7VtMT1h1dgg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735275806422?e=1740614400&v=beta&t=7O67kGDp3NaFz35NoMA--UrFZmIa6bfi-bfDwXzprC8)
 
 I am a dedicated full stack developer with a passion for crafting web applications that combine functionality and aesthetics. I specialize in building robust web applications using CSS, Javascript, Typescript, Node, Express, Mongodb, Postgres. I am deeply passionate about web development and constantly seek opportunities to expand my knowledge. In my free time, I try to contribute to open-source projects and experiment with new technologies. I am always open to new opportunities and collaborations. If you would like to discuss a project, explore potential partnerships, or simply connect, feel free to reach out.
 
