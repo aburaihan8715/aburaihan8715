@@ -32,9 +32,7 @@ I am a dedicated full stack developer with a passion for crafting web applicatio
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aburaihan8715&show_icons=true)
 <br/>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=aburaihan8715)](https://git.io/streak-stats) -->
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aburaihan8715)  
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=aburaihan8715)](https://git.io/streak-stats)
 <br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aburaihan8715&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
